@@ -12,6 +12,8 @@ Apriori Algorithm can be slow. The main limitation is time required to hold a va
 
 ## Libraries Used-Pandas & Numpy
 
-###Submitted By: Parul Mathur
-###Roll no. : 1913045
-###Smartcard Id: BTBTC19135
+### Submitted By: Parul Mathur
+
+### Roll no. : 1913045
+
+### Smartcard Id: BTBTC19135
